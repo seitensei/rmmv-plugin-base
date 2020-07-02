@@ -1,3 +1,3 @@
 export function demoImportFunction(text: string): string {
-    return text.toLowerCase();
+  return text.toLowerCase();
 }

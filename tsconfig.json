@@ -82,5 +82,9 @@
   "exclude": [
     "node_modules",
     "dist"
+  ],
+  "files": [
+    "./types/rmmv.d.ts",
+    "./types/rmmv-pixi.d.ts"
   ]
 }
